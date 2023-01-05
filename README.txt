@@ -3,3 +3,4 @@ packages:
     - pip install beautifulsoup4
     - pip install scrapy-useragents
     - pip install fake-useragent
+    - pip install user-agents
