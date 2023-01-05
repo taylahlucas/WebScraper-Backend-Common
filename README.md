@@ -1,2 +1,2 @@
-# Scraper-Backend-Common
+# WebScraper-Backend-Common
 Common backend for building web scraping programs.
