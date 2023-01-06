@@ -7,7 +7,7 @@
 # useful for handling different item types with a single interface
 # from itemadapter import ItemAdapter
 
-# TODO: Add custom pipelines
-class ScrapersPipeline:
-    def process_item(self, item, spider):
-        return item
+# # TODO: Add custom pipelines
+# class ScrapersPipeline:
+#     def process_item(self, item, spider):
+#         return item

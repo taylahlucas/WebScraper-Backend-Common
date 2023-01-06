@@ -6,7 +6,7 @@
 import scrapy
 
 # TODO: Add custom items
-class ScrapersItem(scrapy.Item):
+# class ScrapersItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    # pass

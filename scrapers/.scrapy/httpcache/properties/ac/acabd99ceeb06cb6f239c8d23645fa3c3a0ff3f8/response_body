@@ -1,7 +1,0 @@
-User-agent: *
-Sitemap: https://au.finance.yahoo.com/sitemaps/finance-sitemap_index_AU_en-AU.xml.gz
-Disallow: /r/
-Disallow: /__rapidworker-1.2.js
-Disallow: /__blank
-Disallow: /_td_api
-Disallow: /_remote
