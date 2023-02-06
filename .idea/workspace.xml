@@ -6,50 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90f54007-bb50-41b9-8394-b598a5f20043" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/03/0388e3cdae57a7e919bd1c84dd1dcaa06f2002c1/meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/03/0388e3cdae57a7e919bd1c84dd1dcaa06f2002c1/pickled_meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/03/0388e3cdae57a7e919bd1c84dd1dcaa06f2002c1/request_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/03/0388e3cdae57a7e919bd1c84dd1dcaa06f2002c1/request_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/03/0388e3cdae57a7e919bd1c84dd1dcaa06f2002c1/response_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/03/0388e3cdae57a7e919bd1c84dd1dcaa06f2002c1/response_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/19/19c0c8ad69c9c16311857b99f48bc2e816c45d99/meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/19/19c0c8ad69c9c16311857b99f48bc2e816c45d99/pickled_meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/19/19c0c8ad69c9c16311857b99f48bc2e816c45d99/request_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/19/19c0c8ad69c9c16311857b99f48bc2e816c45d99/request_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/19/19c0c8ad69c9c16311857b99f48bc2e816c45d99/response_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/19/19c0c8ad69c9c16311857b99f48bc2e816c45d99/response_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/29/29ed7bec183e1491c81a7cfd29b66f9fee848045/meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/29/29ed7bec183e1491c81a7cfd29b66f9fee848045/pickled_meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/29/29ed7bec183e1491c81a7cfd29b66f9fee848045/request_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/29/29ed7bec183e1491c81a7cfd29b66f9fee848045/request_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/29/29ed7bec183e1491c81a7cfd29b66f9fee848045/response_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/29/29ed7bec183e1491c81a7cfd29b66f9fee848045/response_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/44/44169d4ae67a15ed7aa5f88aa465c26a0e8a8daf/meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/44/44169d4ae67a15ed7aa5f88aa465c26a0e8a8daf/pickled_meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/44/44169d4ae67a15ed7aa5f88aa465c26a0e8a8daf/request_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/44/44169d4ae67a15ed7aa5f88aa465c26a0e8a8daf/request_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/44/44169d4ae67a15ed7aa5f88aa465c26a0e8a8daf/response_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/44/44169d4ae67a15ed7aa5f88aa465c26a0e8a8daf/response_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/ac/acabd99ceeb06cb6f239c8d23645fa3c3a0ff3f8/meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/ac/acabd99ceeb06cb6f239c8d23645fa3c3a0ff3f8/pickled_meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/ac/acabd99ceeb06cb6f239c8d23645fa3c3a0ff3f8/request_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/ac/acabd99ceeb06cb6f239c8d23645fa3c3a0ff3f8/request_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/ac/acabd99ceeb06cb6f239c8d23645fa3c3a0ff3f8/response_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/ac/acabd99ceeb06cb6f239c8d23645fa3c3a0ff3f8/response_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/c7/c72b3f92a41405542b75744568945224a70ab11f/meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/c7/c72b3f92a41405542b75744568945224a70ab11f/pickled_meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/c7/c72b3f92a41405542b75744568945224a70ab11f/request_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/c7/c72b3f92a41405542b75744568945224a70ab11f/request_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/c7/c72b3f92a41405542b75744568945224a70ab11f/response_body" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/.scrapy/httpcache/properties/c7/c72b3f92a41405542b75744568945224a70ab11f/response_headers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/results.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/spiders/property_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/spiders/property_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Zoopla-schema.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/result-onthemarket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/result-zoopla.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
