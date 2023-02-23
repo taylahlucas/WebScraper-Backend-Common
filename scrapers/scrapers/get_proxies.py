@@ -1,4 +1,5 @@
 import time
+import requests
 from os.path import exists
 import json
 from spiders.proxy_spider import ProxySpider
@@ -26,6 +27,27 @@ def get_proxies():
         ip_addresses = json.load(file)
 
     # IP addresses contains list of proxies ready to use
+    successful_proxies = []
+    test_url = 'https://httpbin.org/ip'
+    for ip in ip_addresses:
+        print("Trying Request ", ip)
+        try:
+            response = requests.get(
+                test_url,
+                proxies={"http": ip, "https": ip}
+            )
+            print("Successful Connection: ", response.json())
+            successful_proxies.append(ip)
+            break
+        except requests.exceptions.ProxyError:
+            print("Skipping. Connection error")
+
+    if len(successful_proxies) > 0:
+        with open('valid_proxy.json', 'w') as file:
+            file.write(json.dumps(successful_proxies[0]))
+            file.close()
+    else:
+        print("Could not find any successful proxies.")
 
 
 if __name__ == '__main__':
