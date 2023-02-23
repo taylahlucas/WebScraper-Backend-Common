@@ -44,7 +44,7 @@ def get_proxies():
 
     if len(successful_proxies) > 0:
         print("Writing proxy to file")
-        with open('valid_proxy.json', 'w') as file:
+        with open('../../../valid_proxy.json', 'w') as file:
             file.write(json.dumps(successful_proxies[0]))
             file.close()
     else:
