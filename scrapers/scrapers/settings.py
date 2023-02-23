@@ -8,8 +8,6 @@
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 import os
-# import sys
-# import django
 
 BOT_NAME = 'scrapers'
 
@@ -22,8 +20,7 @@ NEWSPIDER_MODULE = 'scrapers.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
-# TODO: DJANGO INTEGRATION
-
+# For django integration
 # sys.path.append(os.path.dirname(os.path.abspath('.')))
 # os.environ['DJANGO_SETTINGS_MODULE'] = 'X.settings'
 # django.setup()

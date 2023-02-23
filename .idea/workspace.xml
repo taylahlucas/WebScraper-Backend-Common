@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f54007-bb50-41b9-8394-b598a5f20043" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/scrapers/scrapers/valid_proxy.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/unused_files/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/get_proxies.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/get_proxies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/ip_addresses.json" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/ip_addresses.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/unused_files/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/unused_files/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/unused_files/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/proxies.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapers/scrapers/proxies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/unused_files/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scrapers/scrapers/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapers/scrapers/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
