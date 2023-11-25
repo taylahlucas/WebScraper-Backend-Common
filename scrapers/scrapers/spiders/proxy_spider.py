@@ -2,7 +2,7 @@ import json
 import scrapy
 from bs4 import BeautifulSoup
 
-
+# Spider which scrapes lists of proxies to use for further scraping
 class ProxySpider(scrapy.Spider):
     name = 'proxies'
     allowed_domains = ["free-proxy-list.net"]

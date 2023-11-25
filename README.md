@@ -1,6 +1,13 @@
 # WebScraper-Backend-Common
 Common backend for building web scraping programs.
 
+## Setup
+
+1. Run virtual env:
+    - source venv/bin/activate
+
+2. Install packages
+
 ### Packages
     - pip install requests
     - pip install beautifulsoup4
@@ -10,6 +17,8 @@ Common backend for building web scraping programs.
     - pip install pymongo
     - npm install express mongodb body-parser --save
 
+3. Run individual spider:
+    - scrapy crawl spider_name
 
 ### Run Application
 node app.js

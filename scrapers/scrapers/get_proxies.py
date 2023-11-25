@@ -52,4 +52,5 @@ def get_proxies():
 
 
 if __name__ == '__main__':
-    get_proxies()
+    # Uncmment to get randomized proxies
+    # get_proxies()
